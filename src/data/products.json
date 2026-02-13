@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Laptop HP",
+    "description": "Laptop HP 15 pulgadas",
+    "code": "LAP001",
+    "price": 50000,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": ["laptop1.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Mouse Logitech",
+    "description": "Mouse inalámbrico",
+    "code": "MOU001",
+    "price": 1500,
+    "status": true,
+    "stock": 25,
+    "category": "Periféricos",
+    "thumbnails": []
+  }
+]
