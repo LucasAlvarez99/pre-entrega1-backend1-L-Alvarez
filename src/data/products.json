@@ -4,11 +4,13 @@
     "title": "Laptop HP",
     "description": "Laptop HP 15 pulgadas",
     "code": "LAP001",
-    "price": 50000,
+    "price": 45000,
     "status": true,
-    "stock": 10,
+    "stock": 7,
     "category": "Electrónica",
-    "thumbnails": ["laptop1.jpg"]
+    "thumbnails": [
+      "laptop1.jpg"
+    ]
   },
   {
     "id": 2,
